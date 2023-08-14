@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoBucha", "DominoBucha\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeneiraDeVolei", "PeneiraDeVolei\PeneiraDeVolei.csproj", "{FBF334C1-7C71-41B5-9DF1-E33F448B6EF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosicoesVolei", "PosicoesVolei\PosicoesVolei.csproj", "{3F3C324A-BACB-4F41-91FD-760A5361628C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FBF334C1-7C71-41B5-9DF1-E33F448B6EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBF334C1-7C71-41B5-9DF1-E33F448B6EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBF334C1-7C71-41B5-9DF1-E33F448B6EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3C324A-BACB-4F41-91FD-760A5361628C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3C324A-BACB-4F41-91FD-760A5361628C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3C324A-BACB-4F41-91FD-760A5361628C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3C324A-BACB-4F41-91FD-760A5361628C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
