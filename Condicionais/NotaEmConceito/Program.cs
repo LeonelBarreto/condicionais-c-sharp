@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Insira sua nota:");
-        string nota = Console.ReadLine();
+        float nota = float.Parse(Console.ReadLine());
 
         if (nota < 4)
         {
