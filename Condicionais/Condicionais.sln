@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentificandoCaracteres", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valorDaParcela", "valorDaParcela\valorDaParcela.csproj", "{AB5072AC-5FC2-42A2-9C61-232D1734ACDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaDaSemana", "DiaDaSemana\DiaDaSemana.csproj", "{66A18605-445A-4BB7-8CBC-A796974915E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{AB5072AC-5FC2-42A2-9C61-232D1734ACDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB5072AC-5FC2-42A2-9C61-232D1734ACDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB5072AC-5FC2-42A2-9C61-232D1734ACDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A18605-445A-4BB7-8CBC-A796974915E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A18605-445A-4BB7-8CBC-A796974915E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A18605-445A-4BB7-8CBC-A796974915E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A18605-445A-4BB7-8CBC-A796974915E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
