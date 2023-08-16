@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompraComDesconto", "Compra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumoDeAguaIngerida", "ConsumoDeAguaIngerida\ConsumoDeAguaIngerida.csproj", "{AF439CEB-A918-4F14-B48A-BDAF456AD611}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NomeParaExibicao", "NomeParaExibicao\NomeParaExibicao.csproj", "{FE79C28C-179F-456C-BD49-FC0824078C22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RematriculaEscolar", "RematriculaEscolar\RematriculaEscolar.csproj", "{3E235B80-4B91-43D9-B175-764F90F93D3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{AF439CEB-A918-4F14-B48A-BDAF456AD611}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF439CEB-A918-4F14-B48A-BDAF456AD611}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF439CEB-A918-4F14-B48A-BDAF456AD611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE79C28C-179F-456C-BD49-FC0824078C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE79C28C-179F-456C-BD49-FC0824078C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE79C28C-179F-456C-BD49-FC0824078C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE79C28C-179F-456C-BD49-FC0824078C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E235B80-4B91-43D9-B175-764F90F93D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E235B80-4B91-43D9-B175-764F90F93D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E235B80-4B91-43D9-B175-764F90F93D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E235B80-4B91-43D9-B175-764F90F93D3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
